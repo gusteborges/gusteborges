@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Augusto Borges 👋
 
-<!--
-**gusteborges/gusteborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas e Desenvolvedor Back-end.
 
-Here are some ideas to get you started:
+💼 Atualmente trabalhando com:
+- Java 6 / Java 8
+- Oracle
+- SQL Server
+- APIs REST
+- Sistemas corporativos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estudando:
+- Spring Boot
+- Microsserviços
+- Angular
+- Arquitetura de Software
+
+🏆 Conquistas
+- 1º Lugar Olimpíada de Programação UNIUBE
+- 1º Lugar AmostraTec 2025
+
+📫 Contato
+- LinkedIn: linkedin.com/in/augusto-machado-borges
+- Email: augustobor@gmail.com
