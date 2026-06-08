@@ -32,16 +32,13 @@ Tenho interesse em Arquitetura de Software, Microsserviços, Spring Boot e desen
 
 ---
 
-## 📊 Estatísticas
+## 💼 Atualmente
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gusteborges&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteborges&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gusteborges&hide_border=true" />
-</p>
+- Analista de Sistemas
+- Desenvolvimento de sistemas corporativos Java
+- Oracle Database e SQL Server
+- APIs REST e integrações
+- Estudos em Spring Boot e Microsserviços
 
 ---
 
